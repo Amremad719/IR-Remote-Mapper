@@ -46,7 +46,7 @@ struct pair
     unsigned long Input;
 };
 
-//PRE-SORTED
+//PRE-SORTED based on the Input member
 //All input keys are mapped, some are commented for ease of updating
 //Mapping is up to user-prefrence
 const pair KEY_MAP[] = {
