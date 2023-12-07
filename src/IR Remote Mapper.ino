@@ -7,7 +7,7 @@
     appropriate IR signals and protocol for the receiver device (in my case an old Sony Hi-Fi system)
     and mapped them in the KEY_MAP table.
 
-    You should be able to change the codes in the KEY_MAP table while keeping it sorted without breaking 
+    You should be able to change the codes in the KEY_MAP table while keeping it sorted based on the Input member without breaking 
     functionality.
 
     The general idea is the arduino would listen for given signals, look them up in the KEY_MAP table, and
