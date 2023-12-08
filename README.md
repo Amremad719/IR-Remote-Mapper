@@ -35,13 +35,13 @@ Before you begin, make sure you have the following:
 
 ## Usage
 
-1. Place the IR blaster infront of the target device.
-1. Point the remote control towards the IR sensor.
-2. Press a button on the old remote control to capture the signal.
-3. Open the Arduino Serial Monitor to view the captured signal.
-4. Modify the code to map the captured signal to the equivalent target device command.
-5. Upload the modified code to the Arduino board.
-6. Place the IR blaster in front of the target device and ENJOY!.
+1. Modify the code slightly to print the received signal.
+2. Point the remote control towards the IR sensor.
+3. Press a button on the old remote control to capture the signal.
+4. Open the Arduino Serial Monitor to view the captured signal and save it.
+5. Modify the code to map the captured signal to the equivalent target device command.
+6. Upload the modified code to the Arduino board.
+7. Place the IR blaster in front of the target device and ENJOY!
 
 ## Contributing
 
